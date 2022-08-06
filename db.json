@@ -1,7 +1,7 @@
 {
   "books":[
       {
-          "id":9781593279509,
+          "id":0,
           "isbn":"9781593279509",
           "image":"https://images-na.ssl-images-amazon.com/images/I/91asIC1fRwL.jpg",
           "title":"Eloquent JavaScript, Third Edition",
@@ -14,7 +14,7 @@
           "website":"http://eloquentjavascript.net/"
       },
       {
-          "id":9781491943533,
+          "id":1,
           "isbn":"9781491943533",
           "image":"https://images-na.ssl-images-amazon.com/images/I/813hbklwWBL.jpg",
           "title":"Practical Modern JavaScript",
@@ -27,7 +27,7 @@
           "website":"https://github.com/mjavascript/practical-modern-javascript"
       },
       {
-          "id":9781593277574,
+          "id":2,
           "isbn":"9781593277574",
           "image":"https://images-na.ssl-images-amazon.com/images/I/512T+d+VK6L._SX376_BO1,204,203,200_.jpg",
           "title":"Understanding ECMAScript 6",
@@ -40,7 +40,7 @@
           "website":"https://leanpub.com/understandinges6/read"
       },
       {
-          "id":9781449365035,
+          "id":3,
           "isbn":"9781449365035",
           "image":"https://images-na.ssl-images-amazon.com/images/I/71YIRcmbniL.jpg",
           "title":"Speaking JavaScript",
@@ -53,7 +53,7 @@
           "website":"http://speakingjs.com/"
       },
       {
-          "id":9781449331818,
+          "id":4,
           "isbn":"9781449331818",
           "image":"https://images-na.ssl-images-amazon.com/images/I/91WlvEND3rL.jpg",
           "title":"Learning JavaScript Design Patterns",
@@ -66,7 +66,7 @@
           "website":"http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/"
       },
       {
-          "id":9798602477429,
+          "id":5,
           "isbn":"9798602477429",
           "image":"https://m.media-amazon.com/images/I/410f-bUBR3L.jpg",
           "title":"You Don't Know JS Yet",
@@ -79,7 +79,7 @@
           "website":"https://github.com/getify/You-Dont-Know-JS/tree/2nd-ed/get-started"
       },
       {
-          "id":9781484200766,
+          "id":6,
           "isbn":"9781484200766",
           "image":"https://images-na.ssl-images-amazon.com/images/I/41Y5RDBnKzL._SX404_BO1,204,203,200_.jpg",
           "title":"Pro Git",
@@ -92,7 +92,7 @@
           "website":"https://git-scm.com/book/en/v2"
       },
       {
-          "id":9781484242216,
+          "id":7,
           "isbn":"9781484242216",
           "image":"https://images-na.ssl-images-amazon.com/images/I/41TT14ilLUL._SX342_SY445_QL70_ML2_.jpg",
           "title":"Rethinking Productivity in Software Engineering",
